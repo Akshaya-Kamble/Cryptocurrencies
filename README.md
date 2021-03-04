@@ -3,6 +3,7 @@
 Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers.In this project we will create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.Since the data is not ideal,it will need to be processed to fit the machine learning models.There is no known output we are  looking for,so we will use unsupervised learning.To group the cryptocurrencies we will use a clustering algorithm and visualize the data.
 
 ## Result
+
 ### A. Preprocessing the Data for PCA
 
 The following tasks are performed to prepprocess the data
